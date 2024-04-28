@@ -1,4 +1,4 @@
-# hackwave hackathon
+# Hackwave Hackathon - Omada Networking Platform
 
 Certainly! Here's a description for your GitHub project:
 
