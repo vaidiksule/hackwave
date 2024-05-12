@@ -25,7 +25,7 @@ function login_signup_check() {
   if (document.getElementById("userpass") !== null) {
     alert("please");
   } else {
-    location.href = "/html/main.html";
+    location.href = "/hackwave/html/main.html";
   }
 }
 
